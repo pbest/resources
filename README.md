@@ -26,5 +26,5 @@ Concepts:
 
 
 ## Animation
-## Product design
+## Product Design
 * [Building Products](https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb#.bng6vsedo)
