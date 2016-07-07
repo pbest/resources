@@ -1,5 +1,5 @@
-# Resources
-Resources for the pros 
+# Interactive Toolkit
+_Resources for the pros_
 
 ## User testing
 ## Research
@@ -12,3 +12,4 @@ Resources for the pros
 ## Front-end Coding
 ## Product design
 ## Professional practice
+* [Junior Designers vs. Senior Designers](https://medium.com/the-year-of-the-looking-glass/junior-designers-vs-senior-designers-fbe483d3b51e#.o4zo20k9a)
