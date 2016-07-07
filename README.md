@@ -11,5 +11,6 @@ _Resources for the pros_
 ## Icon / Vector Design
 ## Front-end Coding
 ## Product design
+* [Building Products](https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb#.bng6vsedo)
 ## Professional practice
 * [Junior Designers vs. Senior Designers](https://medium.com/the-year-of-the-looking-glass/junior-designers-vs-senior-designers-fbe483d3b51e#.o4zo20k9a)
