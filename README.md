@@ -4,9 +4,12 @@ _Resources for the pros_
 ## Professional practice
 * [Junior Designers vs. Senior Designers](https://medium.com/the-year-of-the-looking-glass/junior-designers-vs-senior-designers-fbe483d3b51e#.o4zo20k9a) 
 
-## User testing
+## User Testing
 ## Research
-## UX tips
+## UI
+* [Achieving and Balancing Consistency in User Interface Design](http://www.uxmatters.com/mt/archives/2010/07/achieving-and-balancing-consistency-in-user-interface-design.php) 
+* [Golden Rules of UI Design](http://theomandel.com/wp-content/uploads/2012/07/Mandel-GoldenRules.pdf) 
+
 ## Sketch  
 * [How to get your Sketch files nice and tidy](https://pixel2html.com/blog/how-to-get-your-sketch-files-nice-and-tidy.html?utm_source=designernews)  
 
