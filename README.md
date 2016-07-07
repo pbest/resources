@@ -3,6 +3,7 @@ _Resources for the pros_
 
 ## Professional practice
 * [Junior Designers vs. Senior Designers](https://medium.com/the-year-of-the-looking-glass/junior-designers-vs-senior-designers-fbe483d3b51e#.o4zo20k9a) 
+* [Frontend Designer](http://bradfrost.com/blog/post/frontend-design/)
 
 ## User Testing
 ## Research
