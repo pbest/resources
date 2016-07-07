@@ -1,6 +1,9 @@
 # Interactive Toolkit
 _Resources for the pros_
 
+## Professional practice
+* [Junior Designers vs. Senior Designers](https://medium.com/the-year-of-the-looking-glass/junior-designers-vs-senior-designers-fbe483d3b51e#.o4zo20k9a) 
+
 ## User testing
 ## Research
 ## UX tips
@@ -18,6 +21,3 @@ https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237#.v5
 ## Animation
 ## Product design
 * [Building Products](https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb#.bng6vsedo)
-
-## Professional practice
-* [Junior Designers vs. Senior Designers](https://medium.com/the-year-of-the-looking-glass/junior-designers-vs-senior-designers-fbe483d3b51e#.o4zo20k9a)
