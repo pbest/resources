@@ -13,10 +13,13 @@ _Resources for the pros_
  
 ## Icon / Vector Design
 ## Javascript
+https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237#.v57lb2c40  
+https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.k0krxw8di  
+  
 Concepts:
-https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237#.v57lb2c40
 * [Prototypal inheritance](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 * [Scoping](https://spin.atomicobject.com/2014/10/20/javascript-scope-closures/)  
+
 
 ## Animation
 ## Product design
