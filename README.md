@@ -9,7 +9,12 @@ _Resources for the pros_
 
  
 ## Icon / Vector Design
-## Front-end Coding
+## Javascript
+Concepts:
+* [Prototypal inheritance](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+* [Scoping](https://spin.atomicobject.com/2014/10/20/javascript-scope-closures/)  
+
+## Animation
 ## Product design
 * [Building Products](https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb#.bng6vsedo)
 ## Professional practice
