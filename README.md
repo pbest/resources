@@ -12,9 +12,10 @@ _Resources for the pros_
 
 ## Sketch  
 * [How to get your Sketch files nice and tidy](https://pixel2html.com/blog/how-to-get-your-sketch-files-nice-and-tidy.html?utm_source=designernews)  
+* [Sketch shortcuts](http://sketchshortcuts.com/)
 
  
-## Icon / Vector Design
+## Icon / Vector
 ## Javascript
 https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237#.v57lb2c40  
 https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.k0krxw8di  
