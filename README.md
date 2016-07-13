@@ -34,3 +34,6 @@ _Resources for the pros_
 ## Product Design
 * [Building Products](https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb#.bng6vsedo)
 * [User Onboard](https://www.useronboard.com/)
+
+## Email
+* [Coding Mobile first Emails](https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e#.hqm3rl35r)
