@@ -24,6 +24,7 @@ _Resources for the pros_
 ## Sketch  
 * [How to get your Sketch files nice and tidy](https://pixel2html.com/blog/how-to-get-your-sketch-files-nice-and-tidy.html?utm_source=designernews)  
 * [Sketch shortcuts](http://sketchshortcuts.com/)
+* [Fluid Grid Systems Sketch 3.9](https://medium.com/sketch-app-sources/fluid-grid-systems-in-sketch-3-9-2579133c6d08#.of26s2o73)
 
  
 ## Icon / Vector
