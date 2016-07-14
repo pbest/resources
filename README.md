@@ -8,7 +8,6 @@ _Resources for the pros_
 ## Process
 * [Responsive Workflow](https://speakerdeck.com/stephenhay/responsive-design-workflow-mobilism-2012) | [code examples](https://github.com/stephenhay/rdw-code-examples)
 
-
 ## User Research
 * [Evidence based UX Design Guide ](http://mattish.com/evidence/)
 
@@ -32,8 +31,9 @@ _Resources for the pros_
 * [Cracking the Front End interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237#.v57lb2c40)
 * [From Zero to Front End Hero (pt.2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.k0krxw8di)
 
-
 ## Animation
+* [Understanding Easing in UI](https://medium.com/motion-in-interaction/animation-principles-in-ui-design-understanding-easing-bea05243fe3#.szf1aoykj) 
+
 ## Product Design
 * [Building Products](https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb#.bng6vsedo)
 * [User Onboard](https://www.useronboard.com/)
