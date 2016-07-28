@@ -33,6 +33,7 @@ _Resources for the pros_
 
 ## Animation
 * [Understanding Easing in UI](https://medium.com/motion-in-interaction/animation-principles-in-ui-design-understanding-easing-bea05243fe3#.szf1aoykj) 
+* [SVG animation case study](https://www.smashingmagazine.com/2016/07/an-svg-animation-case-study/)
 
 ## Product Design
 * [Building Products](https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb#.bng6vsedo)
