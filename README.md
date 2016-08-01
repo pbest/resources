@@ -21,7 +21,7 @@ _Resources for the pros_
 * [Golden Rules of UI Design](http://theomandel.com/wp-content/uploads/2012/07/Mandel-GoldenRules.pdf) 
 
 ## Sketch
-* [5 things to do before you start your design](https://medium.com/@jon.moore/5-things-to-do-before-you-start-your-next-design-file-in-sketch-or-preparing-your-design-mise-en-ff7ea9fe3722#.rqj74w9qr)
+* [5 things to do before you start your design file](https://medium.com/@jon.moore/5-things-to-do-before-you-start-your-next-design-file-in-sketch-or-preparing-your-design-mise-en-ff7ea9fe3722#.rqj74w9qr)
 * [How to get your Sketch files nice and tidy](https://pixel2html.com/blog/how-to-get-your-sketch-files-nice-and-tidy.html?utm_source=designernews)  
 * [Sketch shortcuts](http://sketchshortcuts.com/)
 * [Fluid Grid Systems Sketch 3.9](https://medium.com/sketch-app-sources/fluid-grid-systems-in-sketch-3-9-2579133c6d08#.of26s2o73)
