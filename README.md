@@ -26,8 +26,9 @@ _Resources for the pros_
 * [Sketch shortcuts](http://sketchshortcuts.com/)
 * [Fluid Grid Systems Sketch 3.9](https://medium.com/sketch-app-sources/fluid-grid-systems-in-sketch-3-9-2579133c6d08#.of26s2o73)
 
- 
 ## Icon / Vector
+* [Preparing and Exporting SVG icons](https://medium.com/sketch-app-sources/preparing-and-exporting-svg-icons-in-sketch-1a3d65b239bb#.xsf8g8i5x)
+
 ## Javascript
 * [Cracking the Front End interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237#.v57lb2c40)
 * [From Zero to Front End Hero (pt.2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.k0krxw8di)
