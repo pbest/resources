@@ -29,6 +29,9 @@ _Resources for the pros_
 ## Icon / Vector
 * [Preparing and Exporting SVG icons](https://medium.com/sketch-app-sources/preparing-and-exporting-svg-icons-in-sketch-1a3d65b239bb#.xsf8g8i5x)
 
+## Images
+* [Exporting JPGs for retina](https://codepen.io/dbox/pen/PPmPaW)
+
 ## Javascript
 * [Cracking the Front End interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237#.v57lb2c40)
 * [From Zero to Front End Hero (pt.2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.k0krxw8di)
