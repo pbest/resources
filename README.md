@@ -15,6 +15,7 @@ _Resources for the pros_
 * [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c#.q049xqts6)
 * [Object Oriented UX](http://alistapart.com/article/object-oriented-ux)
 * [UX Methods and Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d#.rjdbcxitu)
+* [Dropdown Guidelines](https://www.nngroup.com/articles/drop-down-menus/)
 
 ## UI
 * [Achieving and Balancing Consistency in User Interface Design](http://www.uxmatters.com/mt/archives/2010/07/achieving-and-balancing-consistency-in-user-interface-design.php) 
